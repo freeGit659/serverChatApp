@@ -20,7 +20,3 @@ io.on('connection', (socket) =>{
     });
 });
 
-app.get('/', (req, res) =>{
-    // res.sendFile(__dirname + '/index.html');
-     //console.log('coec');
-})
