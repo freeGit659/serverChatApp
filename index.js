@@ -24,7 +24,3 @@ app.get('/', (req, res) =>{
     // res.sendFile(__dirname + '/index.html');
      //console.log('coec');
 })
-
-server.listen(3000, () => {
-    console.log('listening on port 3000');
-})
